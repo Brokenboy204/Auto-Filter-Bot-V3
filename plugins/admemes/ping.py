@@ -8,10 +8,9 @@ from info import COMMAND_HAND_LER
 from plugins.helper_functions.cust_p_filters import f_onw_fliter
 
 # -- Constants -- #
-ALIVE = "Command Is Working Fine? Yes It Is So I am Fine Subscribe @CyniteMovies" 
-REPO = "<b>𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 ›› https://youtu.be/MfUjmZ1mpfc</b>"
-CHANNEL = "<b>𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻</b> ›› https://youtube.com/c/TechnicalCynite\n\n<b>𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› https://t.me/Technicalcynite</b>\n\n<b>𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› https://t.me/CyniteMovies</b>"
-GROUP = "<b>Group Link ›› https://t.me/+iK9QpPRMNYQyYWY1</b>"
+ALIVE = "Command Is Working Fine? Yes It Is So I am Fine Subscribe @TG_Updates_204" 
+CHANNEL = "𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› https://t.me/TG_Updates_204</b>\n\n<b>𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› https://t.me/TG_Movies_Request_Group</b>"
+Backup = "<b>Group Link ›› https://t.me/+_avmma1KMc04Y2Q1</b>"
 # -- Constants End -- #
 
 
