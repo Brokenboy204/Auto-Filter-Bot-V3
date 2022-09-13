@@ -41,11 +41,11 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('🔍sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖ᴜᴘᴅᴀᴛᴇs', url='https://t.me/Cynitebots')
+            InlineKeyboardButton('✅Channel✅', url='https://t.me/TG_Movies_Request_Group'),
+            InlineKeyboardButton('🔥Updates🔥', url='https://t.me/TG_Updates_204')
         ], [
-            InlineKeyboardButton('ℹ️ʜᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('🔰ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('♻️Help♻️', callback_data='help'),
+            InlineKeyboardButton('♻️About♻️', callback_data='about')
         ]]         
         reply_markup = InlineKeyboardMarkup(buttons)        
         await message.reply_photo(
@@ -82,11 +82,11 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('🔍sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖ᴜᴘᴅᴀᴛᴇs', url='https://t.me/Cynitebots')
+            InlineKeyboardButton('✅Channel✅, url='https://t.me/TG_Movies_Request_Group'),
+            InlineKeyboardButton('🔥Updates🔥', url='https://t.me/TG_Updates_204')
         ], [
-            InlineKeyboardButton('ℹ️ʜᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('🔰ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('♻️Help♻️', callback_data='help'),
+            InlineKeyboardButton('♻️About♻️', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
